@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+champion_abilities.csv
+champion_threat_synergy.csv
+output.csv
